@@ -52,7 +52,7 @@ struct Index {
       }
       .height('50%')
       .width('100%')
-      .backgroundColor('#000000')
+      .backgroundColor('#0000ff')
 
 
     }
